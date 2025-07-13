@@ -2,6 +2,8 @@
 
 FiveM script that checks if your emergency vehicles lights are on and turns the traffic lights in front of you green.
 
+For support you can contact me in my [discord](https://discord.gg/ybkgjRRndG).
+
 Installation steps;
 
 - Download the latest release from [here](https://github.com/VoxtyDevelopment/opticom/releases/)
